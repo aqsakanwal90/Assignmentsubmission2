@@ -1,0 +1,61 @@
+body{
+    background-color: silver;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+section>h1{
+    background-color: #ffffff;
+    background-color: hsla(0,100%,100%,0.5);
+    color: black;
+    text-align: center;
+    font-size: 60;
+}
+p{
+    padding: 5px;
+    margin: 0;
+}
+#s14{
+    background-color: rgb(0, 136, 221);
+}
+#s13{
+    background-color: rgb(0,149,226);
+}
+#s12{
+    background-color: rgb(0,160,230);
+}
+#s11{
+    background-color: rgb(48,170,233);
+}
+#s10{
+    background-color: rgb(84,182,237);
+}
+#s9{
+    background-color: rgb(114,193,240);
+}
+#s8{
+    background-color: rgb(140,202,242);
+}
+#s7{
+    background-color: rgb(0,187,136);
+}
+#s6{
+    background-color: rgb(245,176,204);
+}
+#s5{
+    background-color: rgb(246,159,192);
+}
+#s4{
+    background-color: rgb(245,140,178);
+}
+#s3{
+    background-color: rgb(244,123,166);
+}
+#s2{
+    background-color: rgb(243,106,152);
+}
+#s1{
+    background-color: rgb(244,90,139);
+}
+#s0{
+    background-color: rgb(238,62,128);
+}
